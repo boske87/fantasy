@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "classmap": [
+      "src/Player.php",
+      "src/Team/Team.php",
+      "src/Team/TeamInterface.php",
+      "src/Traits/OperationTrait.php",
+      "src/Strategy.php",
+      "src/Game.php"
+    ]
+  }
+}
